@@ -14,5 +14,6 @@ volume = 10
 cement, sand, aggregate = calculate_m20_boq(volume)
 print(f"=== M20 Concrete BOQ for {volume} m³ ===")
 print(f"Cement Bags (50kg): {cement} bags")
+print(f"Sand Required: {sand} kg")
 print(f"Aggregate Required: {aggregate} kg")
 print("Standard: IS 456:2000, Mix 1:1.5:3")
