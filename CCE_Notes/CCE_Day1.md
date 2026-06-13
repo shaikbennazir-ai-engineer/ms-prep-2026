@@ -13,4 +13,4 @@ OSI Model = 7 layers
 
 TCP  vs  UDP
 TCP = Reliable , slow. Ex: Email
-UDP = Fast , no guranatee. Ex: Video call
+UDP = Fast , no guarantee. Ex: Video call
